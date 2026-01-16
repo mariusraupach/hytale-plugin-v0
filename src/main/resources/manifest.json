@@ -1,0 +1,15 @@
+{
+  "Group": "io.github.mariusraupach",
+  "Name": "hytale-plugin-v0",
+  "Version": "1.0.0",
+  "Description": "",
+  "Authors": [],
+  "Website": "",
+  "Dependencies": {},
+  "OptionalDependencies": {},
+  "LoadBefore": {},
+  "DisabledByDefault": false,
+  "IncludesAssetPack": true,
+  "SubPlugins": [],
+  "Main": "io.github.mariusraupach.hytalepluginv0.plugin.Plugin"
+}

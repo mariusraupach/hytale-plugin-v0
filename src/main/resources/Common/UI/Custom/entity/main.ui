@@ -1,0 +1,18 @@
+Group {
+    Anchor: (Width: 512, Height: 256);
+    Background: #1a1a2e;
+    LayoutMode: Top;
+    Padding: (Full: 32);
+
+    Label #title {
+        Anchor: (Height: 0);
+        Style: (FontSize: 32, TextColor: #ffffff, Alignment: Center);
+        Text: "title";
+    }
+
+    Label #subtitle {
+        Anchor: (Height: 64);
+        Style: (FontSize: 16, TextColor: #888888, Alignment: Center);
+        Text: "subtitle";
+    }
+}

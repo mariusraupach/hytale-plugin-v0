@@ -1,0 +1,7 @@
+{
+  "Group": "io.github.mariusraupach",
+  "IncludesAssetPack": true,
+  "Main": "io.github.mariusraupach.hytalepluginv0.plugin.Main",
+  "Name": "hytale-plugin-v0",
+  "Version": "0.1.0"
+}
